@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+.venv/
+backend/.env
+*.pyc
+
+# LMS file storage: uploaded source material, imported media, raw exports.
+# Never commit these -- they can contain client documents.
+backend/var/

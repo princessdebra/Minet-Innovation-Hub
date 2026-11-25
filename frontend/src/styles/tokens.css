@@ -1,0 +1,50 @@
+:root {
+  /* Brand colour */
+  --red: #e21a22;
+  --red-dark: #c4151c;
+  --red-tint: #fff1f2;
+  --red-tint-border: #fecdd3;
+
+  /* Neutrals */
+  --ink: #0f172a;
+  --ink-2: #1e293b;
+  --text: #0f172a;
+  --muted: #64748b;
+  --muted-2: #94a3b8;
+  --border: #e2e8f0;
+  --border-strong: #cbd5e1;
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --alt: #f8fafc;
+  --alt-2: #e2e8f0;
+  --nav-text: #475569;
+  --nav-icon: #64748b;
+
+  /* Semantic status colours */
+  --amber: #b45309;
+  --amber-tint: #fffbeb;
+  --amber-border: #fde68a;
+  --orange: #c2410c;
+  --orange-tint: #fff7ed;
+  --orange-border: #fed7aa;
+  --sky: #0369a1;
+  --sky-tint: #f0f9ff;
+  --sky-border: #bae6fd;
+  --emerald: #047857;
+  --emerald-tint: #ecfdf5;
+  --emerald-border: #a7f3d0;
+  --slate: #475569;
+  --slate-tint: #f1f5f9;
+  --slate-border: #e2e8f0;
+
+  /* Shape and layout */
+  --radius: 6px;
+  --radius-sm: 4px;
+  --radius-lg: 12px;
+  --sidebar: 240px;
+  --font: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+
+  --shadow-card: 0 1px 2px rgba(15, 23, 42, .05);
+  --shadow-card-hover: 0 6px 16px -4px rgba(15, 23, 42, .10);
+  --shadow-float: 0 8px 24px -6px rgba(15, 23, 42, .14), 0 2px 6px rgba(15, 23, 42, .06);
+}
